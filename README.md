@@ -185,9 +185,6 @@ FUTURE_DS_01/
 │
 ├── README.md
 │
-├── Dashboard/
-│   └── Business_Sales_Performance_Analytics.pbix
-│
 ├── Dataset/
 │   └── Superstore_Sales_Dataset.csv
 │
